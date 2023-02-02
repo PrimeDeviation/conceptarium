@@ -1,6 +1,6 @@
 --find-links https://download.pytorch.org/whl/torch_stable.html
 
-torch==1.9.0+cpu
+torch==1.13.1
 numpy==1.17.4
 sentence_transformers==2.1.0
 fastapi==0.73.0
